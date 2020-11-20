@@ -1,0 +1,13 @@
+C:\Users\artur\OneDrive\Рабочий стол\ZooomLesson\ConsoleAppThree\ConsoleAppThree\bin\Debug\netcoreapp3.1\ConsoleAppThree.exe
+C:\Users\artur\OneDrive\Рабочий стол\ZooomLesson\ConsoleAppThree\ConsoleAppThree\bin\Debug\netcoreapp3.1\ConsoleAppThree.deps.json
+C:\Users\artur\OneDrive\Рабочий стол\ZooomLesson\ConsoleAppThree\ConsoleAppThree\bin\Debug\netcoreapp3.1\ConsoleAppThree.runtimeconfig.json
+C:\Users\artur\OneDrive\Рабочий стол\ZooomLesson\ConsoleAppThree\ConsoleAppThree\bin\Debug\netcoreapp3.1\ConsoleAppThree.runtimeconfig.dev.json
+C:\Users\artur\OneDrive\Рабочий стол\ZooomLesson\ConsoleAppThree\ConsoleAppThree\bin\Debug\netcoreapp3.1\ConsoleAppThree.dll
+C:\Users\artur\OneDrive\Рабочий стол\ZooomLesson\ConsoleAppThree\ConsoleAppThree\bin\Debug\netcoreapp3.1\ConsoleAppThree.pdb
+C:\Users\artur\OneDrive\Рабочий стол\ZooomLesson\ConsoleAppThree\ConsoleAppThree\obj\Debug\netcoreapp3.1\ConsoleAppThree.csprojAssemblyReference.cache
+C:\Users\artur\OneDrive\Рабочий стол\ZooomLesson\ConsoleAppThree\ConsoleAppThree\obj\Debug\netcoreapp3.1\ConsoleAppThree.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Рабочий стол\ZooomLesson\ConsoleAppThree\ConsoleAppThree\obj\Debug\netcoreapp3.1\ConsoleAppThree.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Рабочий стол\ZooomLesson\ConsoleAppThree\ConsoleAppThree\obj\Debug\netcoreapp3.1\ConsoleAppThree.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Рабочий стол\ZooomLesson\ConsoleAppThree\ConsoleAppThree\obj\Debug\netcoreapp3.1\ConsoleAppThree.dll
+C:\Users\artur\OneDrive\Рабочий стол\ZooomLesson\ConsoleAppThree\ConsoleAppThree\obj\Debug\netcoreapp3.1\ConsoleAppThree.pdb
+C:\Users\artur\OneDrive\Рабочий стол\ZooomLesson\ConsoleAppThree\ConsoleAppThree\obj\Debug\netcoreapp3.1\ConsoleAppThree.genruntimeconfig.cache
